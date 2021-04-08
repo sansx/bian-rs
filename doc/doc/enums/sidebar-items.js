@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ContractStatus","合约状态"],["ContractType","合约类型"],["FuturesOrderType","期货订单种类"],["Interval",""],["MarginType",""],["Method",""],["NewOrderType",""],["OrderSide",""],["OrderStatus","订单状态"],["PositionDirect",""],["RateLimitType",""],["SpotOrderType","现货订单种类"],["TimeInForce",""],["WorkingType",""]]});
