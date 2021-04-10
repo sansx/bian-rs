@@ -1,3 +1,3 @@
 (function() {var implementors = {};
-implementors["bian_rs"] = [{"text":"impl From&lt;Error&gt; for APIError","synthetic":false,"types":[]}];
+implementors["bian_rs"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.From.html\" title=\"trait core::convert::From\">From</a>&lt;<a class=\"struct\" href=\"https://docs.rs/reqwest/0.11.2/reqwest/error/struct.Error.html\" title=\"struct reqwest::error::Error\">Error</a>&gt; for <a class=\"enum\" href=\"bian_rs/error/enum.APIError.html\" title=\"enum bian_rs::error::APIError\">APIError</a>","synthetic":false,"types":["bian_rs::error::APIError"]}];
 if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

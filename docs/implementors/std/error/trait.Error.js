@@ -1,3 +1,3 @@
 (function() {var implementors = {};
-implementors["bian_rs"] = [{"text":"impl Error for APIError","synthetic":false,"types":[]}];
+implementors["bian_rs"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/error/trait.Error.html\" title=\"trait std::error::Error\">Error</a> for <a class=\"enum\" href=\"bian_rs/error/enum.APIError.html\" title=\"enum bian_rs::error::APIError\">APIError</a>","synthetic":false,"types":["bian_rs::error::APIError"]}];
 if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

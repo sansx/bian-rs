@@ -1,3 +1,3 @@
 (function() {var implementors = {};
-implementors["bian_rs"] = [{"text":"impl Default for EmptyResponse","synthetic":false,"types":[]}];
+implementors["bian_rs"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"bian_rs/response/http/struct.EmptyResponse.html\" title=\"struct bian_rs::response::http::EmptyResponse\">EmptyResponse</a>","synthetic":false,"types":["bian_rs::response::http::EmptyResponse"]}];
 if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
